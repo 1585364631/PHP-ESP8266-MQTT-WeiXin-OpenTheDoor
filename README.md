@@ -8,3 +8,4 @@
 ### 4.esp8266开发板连接舵机，修改main.ino中配置信息，并且使用arduino ide编译文件
 
 ## 实战视频演示
+http://static.000081.xyz/video/wx.mp4
